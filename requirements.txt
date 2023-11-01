@@ -1,3 +1,4 @@
 ipywidgets==8.0.2
 notebook==6.4.12
 ensure==1.0.2
+tornado>=6.3.3 # not directly required, pinned by Snyk to avoid a vulnerability
